@@ -1,6 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Reytriever.com - Rey Hammond the Golden Retriever
+title: Reytriever.com - Rey the Golden Retriever
 email: reytriever@christoc.com
 brand: Reytriever
 headline: Golden Retriever
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Dog website!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.reytriever.com" # the base hostname & protocol for your site
-copyright: 2020 Chris Hammond
+copyright: 2020 Christoc.com
 
 # Build settings
 markdown: kramdown
@@ -17,7 +17,7 @@ markdown: kramdown
 snapwidget: 896917
 
 # Contacts
-email: reytriver@christoc.com
+email: reytriever@christoc.com
 phone: 
 
 # Tracking
