@@ -10,7 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll_picture_tag'
   gem 'jekyll-feed'
-  gem 'html-proofer'
+  gem 'html-proofer', '>= 5.0.0'
   gem 'jekyll-redirect-from'
 
 end
