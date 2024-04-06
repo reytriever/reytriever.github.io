@@ -1,8 +1,8 @@
-source "https://rubygems.org"
-ruby RUBY_VERSION
+source 'https://rubygems.org'
 
-gem 'jekyll', '4.2.0'
+gem 'jekyll'
 gem 'kramdown-parser-gfm'
+gem 'liquid-c'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
@@ -10,9 +10,10 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll_picture_tag'
   gem 'jekyll-feed'
+  #  gem 'html-proofer'
   gem 'html-proofer', '>= 5.0.0'
-  gem 'jekyll-redirect-from'
 
+  gem 'jekyll-redirect-from'
+  gem 'webrick'
 end
 
-gem "webrick", "~> 1.7"
