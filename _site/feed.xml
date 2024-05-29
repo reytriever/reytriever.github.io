@@ -4,11 +4,11 @@
     <title>Reytriever.com - Rey the Golden Retriever</title>
     <description>Dog website!
 </description>
-    <link>https://www.reytriever.com/</link>
-    <atom:link href="https://www.reytriever.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Apr 2024 00:42:30 -0500</pubDate>
-    <lastBuildDate>Sat, 06 Apr 2024 00:42:30 -0500</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 May 2024 14:00:30 -0500</pubDate>
+    <lastBuildDate>Wed, 29 May 2024 14:00:30 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
     
   </channel>
 </rss>
