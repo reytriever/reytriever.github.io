@@ -14,6 +14,6 @@ group :jekyll_plugins do
   gem 'html-proofer', '>= 5.0.0'
 
   gem 'jekyll-redirect-from'
-  gem 'webrick'
+  gem 'webrick', '>= 1.8.2'
 end
 
